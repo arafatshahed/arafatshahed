@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Yeasir Arafat Shahed.
 #### I am an iOS developer, currently working at BJIT Limited.
-![I am an iOS developer, currently working at BJIT Limited.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!--![I am an iOS developer, currently working at BJIT Limited.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 I am a software engineer, currently working at BJIT Limited iOS section.
 
